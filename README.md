@@ -4,7 +4,8 @@ This page links to a dataset and code library accompanying the article "Age-rela
 technologies" by Joseph Lehmann, et. al., to be published in the _International Journal of Speech Technology_. This link will be activated in early March, corresponding to the article publication in print. Thank you for your interest in the article, dataset, and code library.
 
 ---
-**Update**
+**UPDATE**
+
 The data set and code base are still under development, but a link is now provided to the repository and branch where the current work-in-progress is being hosted. Specifically, interested readers may browse or check out the https://github.com/scignscape/ntxh repository on the "ctg" branch: https://github.com/scignscape/ntxh/tree/ctg.
 
 ---
